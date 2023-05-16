@@ -1,2 +1,2 @@
-# RBF-
+# RBF
 Radial Basis Function Network
